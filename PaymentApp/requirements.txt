@@ -1,0 +1,4 @@
+Flask==1.1.2
+Flask-RESTful==0.3.8
+requests==2.24.0
+pytest==6.1.1
